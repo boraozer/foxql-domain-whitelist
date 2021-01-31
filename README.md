@@ -1,0 +1,1 @@
+## FoxQL node domain crawling list
