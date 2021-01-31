@@ -6,5 +6,25 @@
     {
         "url" : "https://findmentor.network",
         "domain" : "findmentor.network"
+    },
+    {
+        "url" : "https://eksisozluk.com",
+        "domain" : "eksisozluk.com"
+    },
+    {
+        "url" : "https://stackoverflow.com",
+        "domain" : "stackoverflow.com"
+    },
+    {
+        "url" : "https://www.facebook.com",
+        "domain" : "facebook.com"
+    },
+    {
+        "url" : "https://foxql.com",
+        "domain" : "foxql.com"
+    },
+    {
+        "url" : "https://www.producthunt.com",
+        "domain" : "producthunt.com"
     }
 ]
